@@ -425,9 +425,9 @@ label {
 			float:left;
 			color: black;
    			position: absolute;
-   			left:230px;
+   			left:300px;
     		z-index: 99;
-		    font-size: 25px;
+		    font-size: 22px;
 		    font-weight: lighter;
 		    width: 60%;
 		}
@@ -440,10 +440,10 @@ label {
 			float:left;
 			color: black;
    			position: absolute;
-   			left:230px;
+   			left:300px;
    			/*top:10px;*/
     		z-index: 99;
-		    font-size: 20px;
+		    font-size: 18px;
 		    font-weight: lighter;
 		    width: 45%;
 		    padding-top: 60px;
